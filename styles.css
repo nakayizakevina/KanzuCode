@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+}
+
+main{
+    color: orange;
+}
+
+ul{
+    color: orange;
+}
+
+note{
+    font-weight: bold;
+}
+
+nav{
+    background-color: white;
+}
+
+h1{
+    align-content: center;
+}
+
+.white_underline{
+    color: white;
+    text-decoration: underline;
+}
+
+
+.strike{
+    color:white;
+    text-decoration: line-through;
+}
+
+button{
+    background-color:orange;
+    border: none;
+}
