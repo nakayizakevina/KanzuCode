@@ -22,10 +22,10 @@ h1{
     align-content: center;
 }
 
-.white_underline{
+/* .white_underline{
     color: white;
     text-decoration: underline;
-}
+} */
 
 
 .strike{
@@ -36,4 +36,21 @@ h1{
 button{
     background-color:orange;
     border: none;
+    cursor: pointer;
+}
+
+.connect{
+    background-color: aqua;
+}
+
+#contact{
+   display: flex;
+   justify-content: space-between;
+   padding: 4px;
+}
+
+.accounts{
+    display: flex;
+    gap: 6px;
+    align-items: center;
 }
